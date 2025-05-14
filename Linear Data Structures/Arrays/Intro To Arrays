@@ -1,0 +1,9 @@
+📌 What are Arrays?
+An Array is a collection of elements (values or variables), each identified by an index or key. It is a linear data structure that stores elements of the same type in contiguous memory locations.
+
+📌 Types of Arrays
+1.One-Dimensional Array: A linear arrangement of elements.
+
+2.Two-Dimensional Array: A matrix-like arrangement of elements (rows and columns).
+
+3.Multi-Dimensional Array: Multiple levels of arrays (3D, 4D, etc.).
