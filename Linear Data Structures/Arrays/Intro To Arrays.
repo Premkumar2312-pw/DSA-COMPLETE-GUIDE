@@ -11,11 +11,26 @@ Fixed Size: The size of the array is typically fixed when it is created.
 
 📌 Types of Arrays:
 
-One-Dimensional Array:
+1.One-Dimensional Array:
 A simple linear array that stores elements in a single line.
 
-Two-Dimensional Array:
+2.Two-Dimensional Array:
 An array of arrays, often used to represent matrices or grids.
 
-Multi-Dimensional Array:
+3.Multi-Dimensional Array:
 Arrays with more than two dimensions, used in complex data representation like 3D arrays.
+
+📌 Array Operations:
+
+Arrays support several basic operations that allow you to manipulate or query the data stored within them. Common array operations include:
+
+1.Traversal: Visiting each element in the array.
+
+2.Insertion: Adding an element to the array.
+
+3.Deletion: Removing an element from the array.
+
+4.Searching: Finding the presence of an element.
+
+5.Updating: Modifying an element of the array.
+
