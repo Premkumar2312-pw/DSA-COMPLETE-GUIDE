@@ -1,4 +1,6 @@
 📌 What are Arrays?
+
+
 An Array is a data structure used to store multiple elements of the same type in a single variable. It organizes data in a contiguous block of memory, where each element can be accessed using its index or position in the array. Arrays provide efficient indexing, making them one of the most fundamental data structures in programming.
 
 Key Characteristics of Arrays:
